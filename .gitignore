@@ -1,0 +1,9 @@
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+backbone- 1.1.0.js
+phpunit.xml
+Process To be done (important).txt
